@@ -1,2 +1,1 @@
-No Vetor 2 o tempo para o método quick sort ordenar os elementod do vetor varia entre aproximadamente 0,01 a 0,20 segundos, sendo bem rápido embora o tempo de impressão 
-demore alguns segundos!
+No Vetor 'VETORGIGANTE' o tempo para o método quick sort ordenar os elementos do vetor dependendo do tipo de ordenação varia entre aproximadamente 0,01 a 0,10 segundos, sendo um método que se mantém eficiente em vetores gigantes em comparação a outros métodos!
